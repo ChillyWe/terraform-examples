@@ -47,8 +47,7 @@ cd terraform-examples
 
 Each project is independent and can be run separately. Follow these general steps:
 
-    Navigate to the project directory:
-
+Navigate to the project directory:
 ``` bash
 
 cd create-aws-sandbox-account  # or choose another project directory
