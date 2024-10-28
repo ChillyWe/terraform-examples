@@ -17,7 +17,7 @@ The aim of this repository is to provide simple, modular Terraform examples to h
 Each project is stored in its own directory within this repository:
 
 1. **create-aws-sandbox-account**:
-   - **Description**: A basic configuration to create an AWS sandbox account.
+   - **Description**: A basic configuration to create an AWS user to be used with Terraform.
    
 2. **learn-terraform-docker-container**:
    - **Description**: Deploys a simple Docker container to get familiar with using Terraform for containerized applications.
