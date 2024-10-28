@@ -35,3 +35,6 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+# this file is result of the account access key-generation we don't want it in the repository
+terraform_admin_credentials.txt
